@@ -1,0 +1,7 @@
+{
+  "name": "zaka-es",
+  "version": "1.0.0",
+  "description": "ESP backend for mobile game",
+  "type": "module",
+  "private": true
+}
